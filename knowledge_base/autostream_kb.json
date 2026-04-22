@@ -1,0 +1,38 @@
+{
+  "company": {
+    "name": "AutoStream",
+    "description": "AutoStream provides automated AI-powered video editing tools for content creators.",
+    "website": "https://autostream.io"
+  },
+  "plans": {
+    "basic": {
+      "name": "Basic Plan",
+      "price": "$29/month",
+      "videos_per_month": 10,
+      "resolution": "720p",
+      "ai_captions": false,
+      "support": "Email support (business hours only)"
+    },
+    "pro": {
+      "name": "Pro Plan",
+      "price": "$79/month",
+      "videos_per_month": "Unlimited",
+      "resolution": "4K",
+      "ai_captions": true,
+      "support": "24/7 priority support"
+    }
+  },
+  "policies": {
+    "refund": "No refunds are provided after 7 days of purchase.",
+    "support_hours": "24/7 support is available exclusively on the Pro plan. Basic plan users get email support during business hours only.",
+    "cancellation": "You can cancel your subscription at any time. Access continues until the end of the billing period.",
+    "free_trial": "AutoStream does not currently offer a free trial, but you can upgrade or downgrade plans at any time."
+  },
+  "features": {
+    "ai_captions": "Automatically generate accurate captions for your videos using AI (Pro plan only).",
+    "auto_editing": "Smart scene detection and automated cut editing available on both plans.",
+    "templates": "Access to 50+ professionally designed video templates.",
+    "cloud_storage": "All videos are stored in the cloud for 30 days on Basic, unlimited on Pro.",
+    "export_formats": "Export in MP4, MOV, and WebM formats on both plans."
+  }
+}

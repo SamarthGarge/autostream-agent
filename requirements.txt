@@ -1,0 +1,12 @@
+# LangChain core
+langchain>=0.3.0
+langchain-core>=0.3.0
+
+# Google Gemini integration
+langchain-google-genai>=2.0.0
+
+# LangGraph – state machine / agentic framework
+langgraph>=0.2.0
+
+# Environment variable management
+python-dotenv>=1.0.0
